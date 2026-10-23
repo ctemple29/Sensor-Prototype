@@ -63,3 +63,11 @@ The bench track swaps the sense layer and nothing else. `piece.js` and `fake-sen
 Nothing saves a frame or a landmark list. The model downloads once when you click Start; after that the Network panel stays quiet. Keep it that way: no `localStorage` of readings, no uploads, no screenshots of the camera image in the repo. Screenshots for your break log show the piece or the D readout.
 
 The instrument is MediaPipe Face Landmarker, pinned to version 1.1.1, the same one the Make a Face lab used.
+
+Day 1: Preliminary Wiring
+<img width="3024" height="4032" alt="IMG_0400" src="https://github.com/user-attachments/assets/9acb3fea-0f12-4798-a3ea-a82e3356e6f5" />
+<img width="3024" height="4032" alt="IMG_0402_2" src="https://github.com/user-attachments/assets/051bc033-8e2d-4d37-89eb-bc2983e75285" />
+<img width="3024" height="4032" alt="IMG_0401" src="https://github.com/user-attachments/assets/adfbe0db-d521-4eeb-9e5b-9e5fc4aaa872" />
+<img width="3024" height="4032" alt="IMG_0402" src="https://github.com/user-attachments/assets/a1321974-9244-457e-8cde-2f1251ef5d18" />
+
+
